@@ -1,37 +1,53 @@
-## Welcome to GitHub Pages
+# Filterlist Works
 
-You can use the [editor on GitHub](https://github.com/kowith337/kowith337.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+### Title
+**Type**: Type of resources
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+**Compatible**: What tools can be using with
 
-### Markdown
+**WDID**: What does it do?
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+- - - - - - - - - -
+### [GelboLube](https://github.com/kowith337/PersonalFilterListCollection/tree/master/filterlist)
+**Type**: Filterlist
 
-```markdown
-Syntax highlighted code block
+**Compatible**: uBlock Origin
 
-# Header 1
-## Header 2
-### Header 3
+**WDID**: Target to use only on Gelbooru to eliminate all ads, tracking and ads re-insertion, also improve site UI for better experience.
+> It can customize the site with CSS, without extra tools like Stylish. Thanks to uBlock `style:()` rules support.
 
-- Bulleted
-- List
+- - - - - - - - - -
+### [Personal Filterlist Collections](https://github.com/kowith337/PersonalFilterListCollection)
+**Type**: Documentation, Filterlist, Ruleset
 
-1. Numbered
-2. List
+**Compatible**: uBlock Origin, uMatrix  (1.3.3.0 and above)
 
-**Bold** and _Italic_ and `Code` text
+**WDID**: An experimental, uncategorized filterlist and ruleset that currently work-in-progress, include documentation that can improve browser and extension settings.
+> Note: GelboLube is now included as a part of this.
 
-[Link](url) and ![Image](src)
-```
+- - - - - - - - - -
+### [ThaiAntiTokenSites](https://github.com/kowith337/ThaiAntiTokenSites)
+**Type**: Hosts File, Filterlist
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+**Compatible**: uBlock Origin, Hosts Manager, Blokada, DNS66
 
-### Jekyll Themes
+**WDID**: Prevent connecting to scam sites that offer to boost like, reacts, followers through **Facebook access token theft** and gain access token from you to take control your Facebook account.
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/kowith337/kowith337.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+- - - - - - - - - -
+### [ThaiConsentHosts](https://github.com/kowith337/ThaiConsentHosts)
+**Type**: Hosts File
 
-### Support or Contact
+**Compatible**: Hosts Manager, Blokada, DNS66
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+**WDID**: Block certain domains that possible to use as cost-per-action services that provided by mobile operator in Thailand (AIS, DTAC, True-H) to charging additional costs (post-paid) or deduct balance (pre-paid)
+> Because those services is now **aggresiveness** and turned into the **extremely for-profit greeding**...
+
+- - - - - - - - - -
+### [ThaiParanoidBlock](https://github.com/kowith337/ThaiParanoidBlock)
+**Type**: Filterlist
+
+**Compatible**: uBlock Origin
+
+**WDID**: Block and prevent ads, tracking, suggestions that mostly use in Thai sites, also enhanced to hide/remove ads on Facebook (Beacuse Thailand is also one of most country that have most peoples use Facebook)
+
+- - - - - - - - - -
