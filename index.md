@@ -8,28 +8,19 @@
 **WDID**: What does it do?
 
 - - - - - - - - - -
-### [GelboLube](https://github.com/kowith337/PersonalFilterListCollection/tree/master/filterlist)
-**Type**: Filterlist
-
-**Compatible**: uBlock Origin
-
-**WDID**: Target to use only on Gelbooru to eliminate all ads, tracking and ads re-insertion, also improve site UI for better experience.
-> It can customize the site with CSS, without extra tools like Stylish. Thanks to uBlock `style:()` rules support.
-
-- - - - - - - - - -
 ### [Personal Filterlist Collections](https://github.com/kowith337/PersonalFilterListCollection)
 **Type**: Documentation, Filterlist, Ruleset
 
-**Compatible**: uBlock Origin, uMatrix  (1.3.3.0 and above)
+**Compatible**: uBlock Origin, Nano Adblocker, uMatrix (1.3.3.0 and above)
 
-**WDID**: An experimental, uncategorized filterlist and ruleset that currently work-in-progress, include documentation that can improve browser and extension settings.
+**WDID**: An experimental, uncategorised filterlist and ruleset that currently work-in-progress, include documentation that can improve browser and extension settings.
 > Note: GelboLube is now included as a part of this.
 
 - - - - - - - - - -
 ### [ThaiAntiTokenSites](https://github.com/kowith337/ThaiAntiTokenSites)
 **Type**: Hosts File, Filterlist
 
-**Compatible**: uBlock Origin, Hosts Manager, Blokada, DNS66
+**Compatible**: uBlock Origin, Nano Adblocker, Hosts Manager, Blokada, DNS66
 
 **WDID**: Prevent connecting to scam sites that offer to boost like, reacts, followers through **Facebook access token theft** and gain access token from you to take control your Facebook account.
 
@@ -46,8 +37,8 @@
 ### [ThaiParanoidBlock](https://github.com/kowith337/ThaiParanoidBlock)
 **Type**: Filterlist
 
-**Compatible**: uBlock Origin
+**Compatible**: uBlock Origin, Nano Adblocker
 
-**WDID**: Block and prevent ads, tracking, suggestions that mostly use in Thai sites, also enhanced to hide/remove ads on Facebook (Beacuse Thailand is also one of most country that have most peoples use Facebook)
+**WDID**: Block and prevent ads, tracking, suggestions that mostly use in Thai sites
 
 - - - - - - - - - -
